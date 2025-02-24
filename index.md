@@ -2,7 +2,7 @@
 
 ---
 
-[Step-by-Step Guide to Setting Up Okta Verify for Banking](/sample_page)
+[Step-by-Step Guide to Setting Up Okta Verify for Banking](/pdf/MFA_Setup_Guide.pdf)
 <img src="images/blobid0.png?raw=true"/>
 
 ---
