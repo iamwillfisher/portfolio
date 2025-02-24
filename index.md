@@ -2,8 +2,8 @@
 
 ---
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Step-by-Step Guide to Setting Up Okta Verify for Banking](/sample_page)
+<img src="images/blobid0.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
