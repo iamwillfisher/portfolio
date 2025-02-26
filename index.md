@@ -6,8 +6,8 @@
 <img src="images/blobid0.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Security Awareness Training](/pdf/Security_Awareness_Training_Passwords.pdf)
+<img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
