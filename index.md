@@ -6,7 +6,7 @@
 <img src="images/blobid0.png?raw=true"/>
 
 ---
-[Security Awareness Training](/pdf/Security_Awareness_Training_Passwords.pdf)
+[Security Awareness Training Handout](/pdf/Security_Awareness_Training_Passwords.pdf)
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
