@@ -7,7 +7,7 @@
 
 ---
 [Security Awareness Training Handout](/pdf/Security_Awareness_Training_Passwords.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
 [Step-by-Step Guide to Setting Up Okta Verify for Banking](/pdf/MFA_Setup_Guide.pdf)
