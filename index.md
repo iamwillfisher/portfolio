@@ -2,7 +2,7 @@
 
 ---
 
-[Active Directory Portfolio Project](https://docs.google.com/document/d/e/2PACX-1vQ5MAexIPlrtCIarTSetrkGYAxjf62sgPZV58bkNRqstFppS2qipn3vcEKqS_AeErVOuNnTveG3d4dp/pub)
+[Active Directory Portfolio Project](https://docs.google.com/document/d/1LjVmpAgmeowX52kBEeOwCJLxqr1QInc3Cn0AEELo3-s/edit?usp=sharing)
 <img src="images/pngegg.png?raw=true"/>
 
 ---
