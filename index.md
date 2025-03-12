@@ -10,7 +10,7 @@
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Active Directory Portfolio Project](https://docs.google.com/document/d/e/2PACX-1vQ5MAexIPlrtCIarTSetrkGYAxjf62sgPZV58bkNRqstFppS2qipn3vcEKqS_AeErVOuNnTveG3d4dp/pub?embedded=true)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
