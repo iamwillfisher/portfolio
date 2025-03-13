@@ -11,7 +11,7 @@
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
-<a href="/pdf/MFA_Setup_Guide.pdf" style="font-size: 20px;">Step-by-Step Guide to Setting Up Okta Verify for Banking</a>
+<a href="/pdf/MFA_Setup_Guide.pdf" style="font-size: 20px;">Step-by-Step Guide to Setting Up Okta Verify</a>
 <img src="images/blobid0.png?raw=true"/>
 
 ---
