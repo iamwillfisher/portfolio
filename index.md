@@ -3,7 +3,7 @@
 ---
 
 <a href="https://docs.google.com/document/d/1LjVmpAgmeowX52kBEeOwCJLxqr1QInc3Cn0AEELo3-s/edit?usp=sharing" 
-   style="font-size: 22px; font-weight: bold;">Active Directory Portfolio Project</a>
+   style="font-size: 22px;">Active Directory Portfolio Project</a>
 <img src="images/pngegg.png?raw=true"/>
 
 ---
