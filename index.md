@@ -7,11 +7,11 @@
 <img src="images/pngegg.png?raw=true"/>
 
 ---
-[Security Awareness Training Handout](/pdf/Security_Awareness_Training_Passwords.pdf)
+<a href="/pdf/Security_Awareness_Training_Passwords.pdf" style="font-size: 20px;">Security Awareness Training Handout</a>
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
-[Step-by-Step Guide to Setting Up Okta Verify for Banking](/pdf/MFA_Setup_Guide.pdf)
+<a href="/pdf/MFA_Setup_Guide.pdf" style="font-size: 20px;">Step-by-Step Guide to Setting Up Okta Verify for Banking</a>
 <img src="images/blobid0.png?raw=true"/>
 
 ---
