@@ -16,7 +16,7 @@
 
 ---
 
-### More Porjects Coming Soon!
+### More Projects Coming Soon!
 
 - [Process Documentation Sample](/pdf/PortProj1.pdf)
 - [Project 2 Title](http://example.com/)
