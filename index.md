@@ -7,7 +7,7 @@
 <img src="images/pngegg.png?raw=true"/>
 
 ---
-<a href="/pdf/Sec.Aware.Train.v2.pdf" style="font-size: 20px;">Security Awareness Training Handout (Sample)</a>
+<a href="/pdf/Sec_Aware_Train_v2.pdf" style="font-size: 20px;">Security Awareness Training Handout (Sample)</a>
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
