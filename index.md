@@ -7,11 +7,11 @@
 <img src="images/pngegg.png?raw=true"/>
 
 ---
-<a href="/pdf/Sec_Aware_Train_v2.pdf" style="font-size: 20px;">Security Awareness Training Handout (Sample)</a>
+<a href="/pdf/Sec_Aware_Train_v2.pdf" style="font-size: 22px;">Security Awareness Training Handout (Sample)</a>
 <img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
-<a href="/pdf/MFA_Setup_Guide.pdf" style="font-size: 20px;">Step-by-Step Guide to Setting Up Okta Verify</a>
+<a href="/pdf/MFA_Setup_Guide_v2.pdf" style="font-size: 22px;">Step-by-Step Guide to Setting Up Okta Verify</a>
 <img src="images/blobid0.png?raw=true"/>
 
 ---
