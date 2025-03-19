@@ -1,10 +1,10 @@
 title: William Fisher # your name (or website title) here
 logo: "/images/B&W_tpal.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p style="font-size: 28px; font-style: italic; text-align: center;">Aspiring Cybersecurity Engineer</p>
-  <hr style="width: 50%;">
-  <p style="font-size: 22px; font-style: italic; text-align: center;">Actively Pursuing an IT Career</p>
+  <p style="font-size: 22px; font-style: italic; text-align: center;">Aspiring Cybersecurity Engineer</p>
   <br><br>
+  <p style="font-size: 22px; font-style: italic; text-align: center;">Actively Pursuing an IT Career</p>
+  <hr>
   <a href="https://www.linkedin.com/in/william-f-68b7b0259/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="mailto:iamwill.fisher@gmail.com">Get in Touch!</a>
