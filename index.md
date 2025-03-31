@@ -7,19 +7,22 @@
 <img src="images/pngegg.png?raw=true"/>
 
 ---
-<a href="/portfolio/pdf/SEC.pdf" style="font-size: 22px;">Security Awareness Training Handout (Sample)</a>
-<img src="images/security_stock_photo.jpg?raw=true"/>
+
+<a href="https://docs.google.com/document/d/1UdVyBnYTtRnjcFpQCMOaPEWzdCpAUjLeiq4Y6-EZRTU/edit?usp=sharing" 
+   style="font-size: 22px;">Linux Security Log Analyzer</a>
+<img src="images/ubuntu_mysql.png?raw=true"/>
 
 ---
-<a href="/portfolio/pdf/MFA.pdf" style="font-size: 22px;">Step-by-Step Guide to Setting Up Okta Verify</a>
-<img src="images/blobid0.png?raw=true"/>
+
+<a href="/portfolio/pdf/SEC.pdf" style="font-size: 22px;">Security Awareness Training Handout (Sample)</a>
+<img src="images/security_stock_photo.jpg?raw=true"/>
 
 ---
 
 ### More Projects Coming Soon!
 
 - [Process Documentation Sample](/pdf/PortProj1.pdf)
-- [Coming Soon](http://example.com/)
+- [Step-by-Step Guide to Setting Up Okta Verify](/pdf/MFA.pdf)
 - [Coming Soon](http://example.com/)
 - [Coming Soon](http://example.com/)
 - [Coming Soon](http://example.com/)
