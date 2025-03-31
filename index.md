@@ -19,7 +19,7 @@
 
 ---
 
-### More Projects Coming Soon!
+### Other Projects
 
 - [Process Documentation Sample](/pdf/PortProj1.pdf)
 - [Step-by-Step Guide to Setting Up Okta Verify](/pdf/MFA.pdf)
