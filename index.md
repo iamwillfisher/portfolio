@@ -5,7 +5,7 @@
 <a href="https://docs.google.com/document/d/1LjVmpAgmeowX52kBEeOwCJLxqr1QInc3Cn0AEELo3-s/edit?usp=sharing" style="font-size: 22px;">
   Active Directory Portfolio Project  
   <br>
-  <img src="images/pngegg.png?raw=true" alt="Active Directory Project Image"/>
+  <img src="images/AD2.png?raw=true" alt="Active Directory Project Image"/>
 </a>
 
 ---
